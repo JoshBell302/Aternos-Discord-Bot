@@ -6,7 +6,7 @@ client = discord.Client()
 # Private information may be censored when posting code 
 TOKEN = '' # Private
 BOT_CHANNEL_NAME = '🍦vanilla-pixelmon-server🍦'
-USERNAME = '' #Private
+USERNAME = '' # Private
 PASSWORD = '' # Private
 
 @client.event
